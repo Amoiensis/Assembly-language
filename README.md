@@ -13,4 +13,4 @@
 
 选用教材：微型计算机原理与接口技术-中国科学技术大学出版社
 
-学校：Amoiensis Universitas
+学校：Amoiensis Universitas（厦门大学-XMU）
