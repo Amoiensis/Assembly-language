@@ -12,7 +12,7 @@
 
 [Github](https://github.com/Amoiensis/Assembly-language): https://github.com/Amoiensis/Assembly-language
 
-CONTENT
+[CONTENT](https://github.com/Amoiensis/Assembly-language/blob/master/CONTENT.md)
 ---------------------------------------
    （软件）
    
@@ -48,7 +48,7 @@ CONTENT
 
    15. 可编程外围接口芯片8255
              
-   (For more details, please read the CONTENT.)
+   (For more details, please read the [CONTENT](https://github.com/Amoiensis/Assembly-language/blob/master/CONTENT.md).)
 ************************************************************************
 适用课程：微机原理与接口技术（实验）
          (Microcomputer principles interfacing technique)
