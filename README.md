@@ -6,9 +6,9 @@
 希望本项目，能对汇编语言和微机原理与接口技术，感兴趣或者学习的你有所帮助~
 ************************************************************************
 
-'更多微机实验'：https://blog.csdn.net/yxp189?assign_skin=skin-yellow
+[更多微机实验](https://blog.csdn.net/yxp189?assign_skin=skin-yellow)：https://blog.csdn.net/yxp189?assign_skin=skin-yellow
 
-#CONTENT
+CONTENT
 ---------------------------------------
    （软件）
    
