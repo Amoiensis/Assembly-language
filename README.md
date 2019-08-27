@@ -10,7 +10,7 @@
 
 [CSDN](https://blog.csdn.net/yxp189?assign_skin=skin-yellow): https://blog.csdn.net/yxp189?assign_skin=skin-yellow
 
-[Github](https://github.com/Amoiensis/Assembly-language/blob/master/README.md): https://github.com/Amoiensis/Assembly-language/blob/master/README.md
+[Github](https://github.com/Amoiensis/Assembly-language): https://github.com/Amoiensis/Assembly-language
 
 CONTENT
 ---------------------------------------
