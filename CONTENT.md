@@ -46,7 +46,7 @@ CONTENT
    
    12. 简单并行输入接口
 
-	(1) 键盘输入二极管ASCALL码输出[实验](https://github.com/Amoiensis/Assembly-language/tree/master/%E2%80%8B%E2%80%8BHardware-Experiment/%E7%AE%80%E5%8D%95%E5%B9%B6%E8%A1%8C%E8%BE%93%E5%85%A5%E6%8E%A5%E5%8F%A3/%E9%94%AE%E7%9B%98%E8%BE%93%E5%85%A5%E4%BA%8C%E6%9E%81%E7%AE%A1ASCALL%E7%A0%81%E8%BE%93%E5%87%BA)
+   (1) 键盘输入二极管ASCALL码输出[实验](https://github.com/Amoiensis/Assembly-language/tree/master/%E2%80%8B%E2%80%8BHardware-Experiment/%E7%AE%80%E5%8D%95%E5%B9%B6%E8%A1%8C%E8%BE%93%E5%85%A5%E6%8E%A5%E5%8F%A3/%E9%94%AE%E7%9B%98%E8%BE%93%E5%85%A5%E4%BA%8C%E6%9E%81%E7%AE%A1ASCALL%E7%A0%81%E8%BE%93%E5%87%BA)
 
 	(2) 屏显输出开关预置ASCALL码[实验](https://github.com/Amoiensis/Assembly-language/tree/master/%E2%80%8B%E2%80%8BHardware-Experiment/%E7%AE%80%E5%8D%95%E5%B9%B6%E8%A1%8C%E8%BE%93%E5%85%A5%E6%8E%A5%E5%8F%A3/%E5%B1%8F%E6%98%BE%E8%BE%93%E5%87%BA%E5%BC%80%E5%85%B3%E9%A2%84%E7%BD%AEASCALL%E7%A0%81)
    
