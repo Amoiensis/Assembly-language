@@ -1,4 +1,5 @@
 # 汇编语言-微机原理与接口技术-实验-（厦门大学）
+======================================================================
 
 汇编语言代码复现，这是微机原理与接口技术课程的实验内容。
 
@@ -43,7 +44,7 @@ CONTENT
 
    15. 可编程外围接口芯片8255
              
-   (For more details, please read the CONTENT.txt.)
+   (For more details, please read the CONTENT.)
 ************************************************************************
 适用课程：微机原理与接口技术（实验）
          (Microcomputer principles interfacing technique)
