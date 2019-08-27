@@ -63,7 +63,7 @@ Data:2019.08.27
 学校：Xiamen University（Amoiensis Universitas）
 ************************************************************************
 
-ATTENTION:
+ATTENTION
 ---------------------------------------
 Please feel free to contact with me for any questions, thank you!
 
