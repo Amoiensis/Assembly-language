@@ -48,7 +48,7 @@
 注意：转载请标明出处~
 
 适用课程：微机原理与接口技术（实验）
-         (Microcomputer principles interfacing techniquee)
+         (Microcomputer principles interfacing technique)
 
 选用教材：微型计算机原理与接口技术-中国科学技术大学出版社
 
