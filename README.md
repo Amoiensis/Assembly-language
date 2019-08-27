@@ -7,7 +7,9 @@
 
 更多微机实验：https://blog.csdn.net/yxp189?assign_skin=skin-yellow
 
-包含： （硬件）
+包含： 
+       （硬件）
+       
        可编程外围接口芯片8255
        
        可编程定时器/计数器8254
