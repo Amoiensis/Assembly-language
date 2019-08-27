@@ -60,7 +60,7 @@ Data:2019.08.27
 ************************************************************************
 Please feel free to contact with me for any questions, thank you!
 
-Don't spread the files without permission!
+Please don't spread the files without permission!
 
 未经允许，请勿转载！
 ************************************************************************
