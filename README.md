@@ -43,6 +43,7 @@ CONTENT
 
    15. 可编程外围接口芯片8255
              
+   (For more details, please read the CONTENT.txt.)
 ************************************************************************
 适用课程：微机原理与接口技术（实验）
          (Microcomputer principles interfacing technique)
