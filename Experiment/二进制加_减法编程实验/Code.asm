@@ -1,6 +1,6 @@
-;author:YXP
+;Author:YXP
 ;CSDN:yxp189
-;e-mail:yxp189@protonmail.com
+;Email:yxp189@protonmail.com
 ;如有问题，欢迎和我联系~
 ;转载请标明出处~
 
